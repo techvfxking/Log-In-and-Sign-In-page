@@ -1,0 +1,80 @@
+.box {
+  width: 27%;
+  height: 500px;
+  background-image: linear-gradient(#7ee8fa, #eec0c6);
+  margin: auto;
+  margin-top: 40px;
+  text-align: center;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+::placeholder {
+  color: black;
+  font-weight: bold;
+}
+#mail {
+  padding: 7px;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+  outline: none;
+
+  width: 125px;
+
+  background-color: inherit;
+  border-color: blue;
+}
+#second {
+  margin-left: 19px;
+}
+
+label {
+  color: red;
+  font-weight: bold;
+}
+img {
+  width: 150px;
+}
+#user {
+  width: 80%;
+  background-color: inherit;
+  margin-top: 10px;
+  padding: 8px;
+  border-radius: 50px;
+  outline: none;
+  border-color: blue;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+#gender {
+  margin-top: 10px;
+  font-weight: bold;
+  margin-right: 150px;
+}
+button {
+  background: inherit;
+  outline: none;
+  font-weight: bold;
+  padding: 5px;
+  width: 100px;
+  margin-top: 5px;
+}
+p {
+  color: black;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+}

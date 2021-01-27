@@ -1,0 +1,68 @@
+.log {
+  background: linear-gradient(to bottom, #33ccff 45%, #ff99cc 100%);
+  /*creatingthegradientbackground*/
+  width: 25%;
+  height: 400px;
+  text-align: center;
+  margin: auto;
+  margin-top: 90px;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+}
+
+#mail {
+  width: 80%;
+  padding: 8px;
+  margin: auto;
+  margin-top: 10px;
+  border-radius: 50px;
+  border-color: blue;
+  background-color: inherit;
+  font-weight: bold;
+  outline: none;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+::placeholder {
+  color: black;
+}
+
+#pass {
+  width: 80%;
+  padding: 8px;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+  margin-top: 20px;
+  background-color: inherit;
+  font-weight: bold;
+  border-color: blue;
+  outline: none;
+}
+#login {
+  margin-top: 20px;
+  padding: 7px;
+  width: 100px;
+  font-weight: bold;
+  background: inherit;
+  outline: none;
+}
+
+p {
+  margin-top: 30px;
+  font-weight: bold;
+}
+a {
+  color: black;
+}
+
+img {
+  width: 150px;
+}
